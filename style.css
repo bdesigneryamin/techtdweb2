@@ -12,7 +12,6 @@ h1{
 .half-width{
     width: 40%;
     display: inline-block;   
-    
     margin-left: 5%;
     padding: 2%; 
 }
@@ -41,6 +40,7 @@ h1{
 .ex-box{
     box-shadow: 10px 10px 30px;
     border-radius: 10px;
+    
 }    
 #main{
     border-left: 5px solid;
